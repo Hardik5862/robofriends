@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import CardList from '../components/CardList';
 import Scroll from '../components/Scroll';
 import SearchBox from '../components/SearchBox';
-import './App.css'
+import './App.css';
 
 function App() {
 	const [robots, setRobots] = useState([]);
