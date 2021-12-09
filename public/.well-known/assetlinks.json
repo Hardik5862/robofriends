@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "io.github.hardik5862.twa",
+                     "sha256_cert_fingerprints": ["71:90:3A:46:E4:94:3E:25:3E:DD:B2:74:D9:59:F1:14:AB:31:D8:73:A5:68:5B:A6:B8:63:D7:E2:1C:50:38:B9"] }
+      }
+]
